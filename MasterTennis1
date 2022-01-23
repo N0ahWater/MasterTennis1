@@ -1,0 +1,66 @@
+#EXTM3U
+#EXTINF:-1,TSN 5 Canada
+http://38.91.57.12:2082/tsn5/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TSN 4 Canada
+http://38.91.57.12:2082/tsn4/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ESPN 2 USA 
+http://38.91.57.12:2082/espn2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ESPN 2 USA 
+http://208.79.153.123:80/teleup-espn2-new1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="TR: EUROSPORT 1 HD" tvg-logo="" group-title="TURKIYE SPOR KANALLARI VIP",TR: EUROSPORT 1 HD
+http://iptvhdnew.com:8080/1805/1805/283
+#EXTINF:-1 tvg-ID="NULL" tvg-name="TR: EUROSPORT 2 HD" tvg-logo="" group-title="TURKIYE SPOR KANALLARI VIP",TR: EUROSPORT 2 HD
+http://iptvhdnew.com:8080/1805/1805/305
+#EXTINF:-1 tvg-ID="NULL" tvg-name="TR: NBA TV HD" tvg-logo="" group-title="TURKIYE SPOR KANALLARI VIP",TR: NBA TV HD
+http://iptvhdnew.com:8080/1805/1805/281
+#EXTINF:-1 tvg-ID="NULL" tvg-name="TR: beIN SPORTS 4 SD" tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/234/Image/beinsports4-sd-70x46.png" group-title="TURKIYE SPOR KANALLARI VIP",TR: beIN SPORTS 4 SD
+http://iptvhdnew.com:8080/1805/1805/387
+http://iptvhdnew.com:8080/1805/1805/397
+#EXTINF:-1 tvg-ID="NULL" tvg-name="TR: ANIMAL PLANET HD" tvg-logo="" group-title="TURKIYE BELGESEL KANALLARI",TR: ANIMAL PLANET HD
+http://iptvhdnew.com:8080/1805/1805/270
+#EXTINF:-1,SPO: beIN Sports 5 SD
+http://yazansportpro.xyz:25461/livesport__ios/livesport_android/33
+#EXTINF:-1,SPO: beIN Sports 5 HD
+http://yazansportpro.xyz:25461/livesport__ios/livesport_android/20
+#EXTINF:0,TennisTV 1
+http://202.44.228.201:1935/aslive/skynetsports3/mono.m3u8
+#EXTINF:-1,ESPN HD
+http://190.15.32.30:80/22/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ESPN HD2
+http://tv.sigma-iptv.com:7000/45905/13543107/5557
+#EXTINF:0,beINSPORTS 1 HD
+http://tv.sigma-iptv.com:7000/45905/13543107/5558
+#EXTINF:0,beINSPORTS 2
+http://tv.sigma-iptv.com:7000/45905/13543107/5555
+#EXTINF:0,beINSPORTS 2 HD
+http://tv.sigma-iptv.com:7000/45905/13543107/5556
+#EXTINF:0,beINSPORTS 3
+http://tv.sigma-iptv.com:7000/45905/13543107/5553
+#EXTINF:0,beINSPORTS 3 HD
+http://tv.sigma-iptv.com:7000/45905/13543107/5554
+#EXTINF:0,beINSPORTS 4
+http://tv.sigma-iptv.com:7000/45905/13543107/5551
+#EXTINF:0,beINSPORTS 4 HD
+http://tv.sigma-iptv.com:7000/45905/13543107/5552
+#EXTINF:0,beINSPORTS 5
+http://tv.sigma-iptv.com:7000/45905/13543107/5549
+#EXTINF:0,beINSPORTS 5 HD
+http://tv.sigma-iptv.com:7000/45905/13543107/5550
+#EXTINF:0,Bein sports 6
+http://tv.sigma-iptv.com:7000/45905/13543107/5547
+#EXTINF:0,beINSPORTS 6 HD
+http://tv.sigma-iptv.com:7000/45905/13543107/5548
+#EXTINF:0,beINSPORTS 7
+http://tv.sigma-iptv.com:7000/45905/13543107/5545
+#EXTINF:0,beINSPORTS 7 HD
+http://tv.sigma-iptv.com:7000/45905/13543107/5546
+#EXTINF:0,beINSPORTS 8
+http://tv.sigma-iptv.com:7000/45905/13543107/5543
+#EXTINF:0,beINSPORTS 8 HD
+http://tv.sigma-iptv.com:7000/45905/13543107/5544
+#EXTINF:0,beINSPORTS 9
+http://tv.sigma-iptv.com:7000/45905/13543107/5541
+#EXTINF:0,beINSPORTS 9 HD
+http://tv.sigma-iptv.com:7000/45905/13543107/5542
+#EXTINF:0,beINSPORTS 10
+http://tv.sigma-iptv.com:7000/45905/13543107/5539
